@@ -7,7 +7,7 @@ import FormBuilder from './form-builder';
 function App() {
   return (
     <div className="App">
-      <h1>hello world</h1>
+      <h1>React Form Builder Example</h1>
       <FormBuilder/>
     </div>
   );
